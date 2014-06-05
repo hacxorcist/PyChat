@@ -1,0 +1,1 @@
+-rw-r--r--. 1 root root 0 Jun  4 13:04 output2.txt
